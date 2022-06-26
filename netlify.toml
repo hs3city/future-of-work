@@ -1,2 +1,2 @@
 [build]
-command = "ln -s fow-6/* ./"
+command = "cp -R fow-6/* ./"
